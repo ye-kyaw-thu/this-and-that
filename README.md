@@ -4,4 +4,4 @@
 
 ## TOC
 
-
+1. Shannon entropy calculation, [code]()
