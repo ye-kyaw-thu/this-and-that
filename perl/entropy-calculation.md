@@ -58,7 +58,7 @@ p for y: 0.142857142857143
 Entropy: 2.8073549220576
 ```
 
-Enjoy!
+Enjoy learning entropy!  
 
 y@CADT  
 12 June 2022  
