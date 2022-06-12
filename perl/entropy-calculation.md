@@ -6,7 +6,9 @@ Wiki မှာတော့ entorpy ဆိုတာကို အင်္ဂလ�
 
 In information theory, the entropy of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes.  
 
-ကွန်ပျူတာသမားတွေအတွက် နားလည်သလို ပြန်ရှင်းပြရရင် communication လုပ်မယ့် (ဥပမာ။ ။ အဲဒီခေတ်အချိန်ကအတိုင်း ပြောရရင် တနေရာကနေ တနေရာကို စာကြောင်းတစ်ကြောင်း ပို့ဖို့အတွက် ...) စာကြောင်းကို encode လုပ်ဖို့အတွက် ပျမ်းမျှ bit အနည်းဆုံး ဘယ်လောက် လိုအပ်မလဲ ဆိုတာကို ခန့်မှန်းတွက်ချက်တာပါ။ Estimation of average minimum number of bits ပါ။  
+ကွန်ပျူတာသမားတွေအတွက် နားလည်သလို ပြန်ရှင်းပြရရင် communication လုပ်မယ့် (ဥပမာ။ ။ အဲဒီခေတ်အချိန်ကအတိုင်း ပြောရရင် တနေရာကနေ တနေရာကို စာကြောင်းတစ်ကြောင်း ပို့ဖို့အတွက် ...) စာကြောင်းကို encode လုပ်ဖို့အတွက် ပျမ်းမျှ bit အနည်းဆုံး ဘယ်လောက် လိုအပ်မလဲ ဆိုတာကို ခန့်မှန်းတွက်ချက်တာပါ။ Estimation of average minimum number of bits ပါ။ ဖော်မြူလာ အနေနဲ့ ဆိုရင်တော့ အောက်ပါပုံစံမျိုး ရေးလို့ ရပါတယ်။  
+
+$ H(X) = \sum_{i=1}^{n} p(x_{i}) I(x_{i}) $
 
 ## Reference
 
