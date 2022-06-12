@@ -6,6 +6,7 @@
 # e.g. $ cat input.txt | perl ./calc-entropy.pl
 
 # Reference: 
+# https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
 # https://codereview.stackexchange.com/questions/868/calculating-entropy-of-a-string
 # https://math.stackexchange.com/questions/1573537/entropy-of-a-character-in-a-string
 # https://rosettacode.org/wiki/Entropy
