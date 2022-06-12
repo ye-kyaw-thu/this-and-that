@@ -9,8 +9,8 @@ In information theory, the entropy of a random variable is the average level of 
 ကွန်ပျူတာသမားတွေအတွက် နားလည်သလို ပြန်ရှင်းပြရရင် communication လုပ်မယ့် (ဥပမာ။ ။ အဲဒီခေတ်အချိန်ကအတိုင်း ပြောရရင် တနေရာကနေ တနေရာကို စာကြောင်းတစ်ကြောင်း ပို့ဖို့အတွက် ...) စာကြောင်းကို encode လုပ်ဖို့အတွက် ပျမ်းမျှ bit အနည်းဆုံး ဘယ်လောက် လိုအပ်မလဲ ဆိုတာကို ခန့်မှန်းတွက်ချက်တာပါ။ Estimation of average minimum number of bits ပါ။ ဖော်မြူလာ အနေနဲ့ ဆိုရင်တော့ အောက်ပါပုံစံမျိုး ရေးလို့ ရပါတယ်။  
 
 $ \Huge H(X) = \sum_\limits{i=1}^{n} p(x_{i}) I(x_{i}) $   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $ \Huge = \sum_\limits{i=1}^{n} p(x_{i}) \log_b \frac{1}{p(x_{i})} $   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $ \Huge = - \sum_\limits{i=1}^{n} \log_{b}p(x_{i}) $    
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $ \Huge = \sum_\limits{i=1}^{n} p(x_{i}) \log_b \frac{1}{p(x_{i})} $   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $ \Huge = - \sum_\limits{i=1}^{n} \log_{b}p(x_{i}) $    
 
 ## Reference
 
