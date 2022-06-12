@@ -11,7 +11,7 @@ In information theory, the entropy of a random variable is the average level of 
 $ \Huge H(X) = \sum_\limits{i=1}^{n} p(x_{i}) I(x_{i}) $   
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $ \Huge = \sum_\limits{i=1}^{n} p(x_{i}) \log_b \frac{1}{p(x_{i})} $   
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $ \Huge = - \sum_\limits{i=1}^{n} \log_{b}p(x_{i}) $    
-y ဆိုတဲ့ စာလုံး ကို တနေရာရာကို ပို့မယ် ဆိုပြီး စဉ်းစားကြည့်ကြရအောင်။  
+y ဆိုတဲ့ စာလုံး (ရဲကျော်သူ ရဲ့ အတိုကောက်အနေနဲ့ သုံးတာပါ) ကို တနေရာရာကို ပို့မယ် ဆိုပြီး စဉ်းစားကြည့်ကြရအောင်။  
 y က binary လိုပြောင်းရေးရင် 01111001 ပါ။  
 
 binary system ကို သုံးတာမို့လို့ ငါတို့ရဲ့ input string မှာက သင်္ကတေ နှစ်မျိုးပဲ ရှိပါတယ်။ အဲဒါကတော့ "0" နဲ့ "1" ပါပဲ။
