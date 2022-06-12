@@ -4,4 +4,4 @@
 
 ## TOC
 
-1. Shannon entropy calculation, [code]()
+1. Shannon entropy calculation for a given string, [perl code](https://github.com/ye-kyaw-thu/this-and-that/blob/main/perl/calc-entropy.pl)  
