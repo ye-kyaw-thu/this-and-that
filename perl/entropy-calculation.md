@@ -1,6 +1,6 @@
 # Entropy Calculation
 
-Entropy ဆိုတာက information theory မှာ အရေးကြီးတဲ့ တွက်ချက်မှုတစ်ခုပါ။ Entropy ဆိုတဲ့ သိပ္ပံဆိုရင်ရာ အတွေးအခေါ်ကို ပထမဆုံး propose လုပ်ခဲ့တဲ့သူက information theory ရဲ့ ဖခင်လို့ တင်စားပြောကြတဲ့ ဒေါက်တာ Claude Elwood Shannon ပါ။ အဲဒါကြောင့်မို့လို့ Shannon Entropy လို့လည်း သုံးကြပါတယ်။  
+Entropy ဆိုတာက information theory မှာ အရေးကြီးတဲ့ တွက်ချက်မှုတစ်ခုပါ။ Entropy ဆိုတဲ့ သိပ္ပံဆိုင်ရင်ရာ အတွေးအခေါ်ကို ပထမဆုံး propose လုပ်ခဲ့တဲ့သူက information theory ရဲ့ ဖခင်လို့ တင်စားပြောကြတဲ့ ဒေါက်တာ Claude Elwood Shannon ပါ။ အဲဒါကြောင့်မို့လို့ Shannon Entropy လို့လည်း သုံးကြပါတယ်။  
 
 Wiki မှာလည်း အင်္ဂလိပ်လိုတော့ အောက်ပါအတိုင်း ရှင်းပြထားပါတယ်။  
 
