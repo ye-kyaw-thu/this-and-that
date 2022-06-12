@@ -27,6 +27,42 @@ $H(X) = -[(-0.531)+(-0.424)]$
 $H(X) = -[-0.95443]$  
 $H(X) = 0.95443$  
 
+perl ပရိုဂရမ်မှာတော့ input ကို text file ကနေ ယူထားပါတယ်။  
+text ဖိုင်ထဲမှာတော့ "မမဝဝထထကအကပထမ" နဲ့ "entropy" ဆိုတဲ့ စာကြောင်းနှစ်ကြောင်းကို ရိုက်ထည့်ထားပါတယ်။  
+(ဗမာစာကြောင်းမှာက space ထည့်ရိုက်ရင်လည်း တွက်ပေးမှာ ဖြစ်ပေမဲ့ p for  ဆိုပြီး ဖြစ်နေမှာမို့ တမင်တကာ ဖြုတ်ထားခဲ့တာပါ)  
+```
+(base) ye@ykt-pro:/media/ye/project1/4github/calc-entropy$ cat input.txt 
+မမဝဝထထကအကပထမ
+entropy
+```
+
+perl program ကို command line ကနေ run လိုက်ရင် အောက်ပါအတိုင်း Shannon entropy ကို input စာကြောင်း နှစ်ကြောင်းအတွက် တွက်ပေးသွားပါလိမ့်မယ်။  
+
+```
+(base) ye@ykt-pro:/media/ye/project1/4github/calc-entropy$ cat input.txt | perl ./calc-entropy.pl 
+p for က: 0.166666666666667
+p for ထ: 0.25
+p for ပ: 0.0833333333333333
+p for မ: 0.25
+p for ဝ: 0.166666666666667
+p for အ: 0.0833333333333333
+Entropy: 2.45914791702724
+
+p for e: 0.142857142857143
+p for n: 0.142857142857143
+p for o: 0.142857142857143
+p for p: 0.142857142857143
+p for r: 0.142857142857143
+p for t: 0.142857142857143
+p for y: 0.142857142857143
+Entropy: 2.8073549220576
+```
+
+Enjoy!
+
+y@CADT  
+12 June 2022  
+ 
 ## Reference
 
 1. https://en.wikipedia.org/wiki/Claude_Shannon
