@@ -2,7 +2,7 @@
 """
 Created on Sat May 29 10:17:03 2023
 
-@author: Ye Kyaw Thu, Study on Prime Number Calculations
+@author: Ye Kyaw Thu, Study on Prime Number Calculations with ChatGPT4
 How to run: python print-prime-no.py 10 100
 
 """
