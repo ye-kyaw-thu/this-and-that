@@ -69,3 +69,99 @@ Prime numbers, those unique integers greater than one that have no divisors othe
    Notably, it offers guaranteed correctness and is the first primality test to be simultaneously general, polynomial, deterministic, and non-conditional. However, despite its polynomial-time complexity, the AKS method is not practically used due to its high computational requirements.
 
 In summary, prime number calculation methods range from simple and intuitive to complex and sophisticated. Each has its strengths and weaknesses, and their practical use depends on factors like the size and nature of the number sequence and computational resources available. As mathematical research continues, new methods may yet be discovered, further enriching our understanding of the mysterious world of prime numbers.
+
+----------
+
+You mentioned as follows:
+
+Additionally, the Miller–Rabin primality test and Fermat's Method are probabilistic tests and may not always provide accurate results. They are usually used in combination with other deterministic tests or for testing primality of large numbers typically used in cryptography.
+
+Can you write an example python code of above two methods applying for cryptography? Please provide how to run tutorial also. 
+
+Sure, here are the Python implementations for Fermat's method and the Miller-Rabin test. These methods are usually used to check the primality of large numbers, such as those used in RSA encryption.
+
+Firstly, you'll need to install a Python library called `pycryptodome` which is a self-contained Python package of low-level cryptographic primitives. You can install it with pip:
+
+```bash
+pip install pycryptodome
+```
+
+Here's the Python code:
+
+```python
+from Crypto.Util.number import getPrime
+from random import randint
+
+# Fermat's Primality Test
+def fermat_primality_test(p, iterations):
+    if p == 2:
+        return True
+    if not p & 1:  # if p is even
+        return False
+
+    for i in range(iterations):
+        a = randint(2, p - 1)
+        if pow(a, p - 1, p) != 1:
+            return False
+    return True
+
+# Miller-Rabin Primality Test
+def miller_rabin_primality_test(p, iterations):
+    if p == 2:
+        return True
+    if not p & 1:  # if p is even
+        return False
+
+    def check(a, s, d, p):
+        x = pow(a, d, p)
+        if x == 1:
+            return True
+        for i in range(s - 1):
+            if x == p - 1:
+                return True
+            x = pow(x, 2, p)
+        return x == p - 1
+
+    s = 0
+    d = p - 1
+
+    while d % 2 == 0:
+        d >>= 1
+        s += 1
+
+    for i in range(iterations):
+        a = randint(2, p - 1)
+        if not check(a, s, d, p):
+            return False
+    return True
+
+# Testing the primality test functions
+
+# Generating a large prime number (1024 bit)
+p = getPrime(1024)
+
+print("Testing Fermat's Primality Test")
+print(fermat_primality_test(p, 5))
+
+print("Testing Miller-Rabin Primality Test")
+print(miller_rabin_primality_test(p, 5))
+```
+
+This script tests the primality of a randomly generated 1024-bit prime number using Fermat's and Miller-Rabin's methods. `iterations` is the number of times the test is run, with higher numbers providing more accuracy.
+
+You can run this script from the command line:
+
+```bash
+python primality_tests.py
+```
+
+This will output whether the tests consider the number to be prime:
+
+```bash
+Testing Fermat's Primality Test
+True
+Testing Miller-Rabin Primality Test
+True
+```
+
+As both tests are probabilistic, they may give incorrect results for some composite numbers (known as pseudoprimes for the given test). However, the chance of an incorrect result decreases with more iterations, and for random large numbers as in cryptographic applications, these tests are generally very reliable.
