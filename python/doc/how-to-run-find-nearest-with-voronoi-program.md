@@ -9,7 +9,7 @@ Voronoi diagrams ဆိုတာကို Georgy Voronoy ဆိုတဲ့ ရ�
 
 အဲဒီ လေးမျိုးအထဲမှာ ဆိုရင်တော့ နံပါတ် (၁) Fortune's Algorithm ကတော့ လူသိအများဆုံးလို့ ပြောကြပါတယ်။ ကိုယ်တိုင် ဒီ algorithm တွေကို code ရေးပြီး implementation လုပ်မယ် ဆိုရင်တော့ သင်္ချာအပိုင်းရော coding အပိုင်းရော အချိန်ယူပြီး လုပ်ကြရပါလိမ့်မယ်။ Python မှာတော့ Voronoi diagram ဆွဲဖို့အတွက်က library တွေ ရှိပြီးသားမို့လို့ ယူသုံးပြီး Voronoi diagram ကို အလွယ်တကူ ဆွဲလို့ ရပါတယ်။
 
-```
+```python
 # -*- coding: utf-8 -*-
 """
 Created on Tue May 30 11:51:18 2023
