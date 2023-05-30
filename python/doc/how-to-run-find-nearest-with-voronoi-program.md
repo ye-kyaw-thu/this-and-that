@@ -39,9 +39,9 @@ plt.show()
 အထက်ပါ Python code ကို run ရင် အောက်ပါလိုမျိုး Voronoi diagram တွေကို ဆွဲပေးပါလိမ့်မယ်။  
 
 <p float="left">
-  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/random-voronoi-diagram1.png" width="100" />
-  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/random-voronoi-diagram2.png" width="100" /> 
-  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/random-voronoi-diagram3.png" width="100" />
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/random-voronoi-diagram1.png" width="300" />
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/random-voronoi-diagram2.png" width="300" /> 
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/random-voronoi-diagram3.png" width="300" />
 </p>
 
 ## Brief Explanation of How to Run
