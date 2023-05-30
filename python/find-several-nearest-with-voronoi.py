@@ -3,7 +3,7 @@
 Created on Mon May 29 12:44:25 2023
 
 @author: Ye Kyaw Thu, NECTEC, Thailand
-This program will plot 2D Voronoi diagram and find the nearest location 
+This program will plot 2D Voronoi diagram and find the nearest location with 5 distance calculation methods
 
 """
 
