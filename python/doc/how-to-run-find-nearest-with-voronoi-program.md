@@ -1,8 +1,5 @@
 # What is Voronoi Diagram
 
-Introduction:
-Voronoi diagrams, named after the Russian mathematician Georgy Voronoi, are a powerful and elegant concept in computational geometry. They provide a way to partition space into regions based on the proximity to a set of predefined points, known as seeds or generators. This essay delves into the intricacies of Voronoi diagrams, their construction, properties, and explores their applications in the real world.
-
 Voronoi diagrams ဆိုတာကို Georgy Voronoy ဆိုတဲ့ ရုရှား (ယူကရိန်း) သင်္ချာပညာရှင် က ပေးခဲ့တဲ့ နာမည်ပါ။ Computational geometry (တွက်ချက်မှုဆိုင်ရာ ဂျီဩမေတြီ) မှာတော့ တော်တော်လေး ထင်ရှားတဲ့ အယူအဆ တစ်ခုဖြစ်ပါတယ်။ အတိုရှင်းပြရရင်တော့ space တစ်ခုကို ပေးလိုက်တဲ့ seed point တွေပေါ်ကို မူတည်ပြီး partition တွေ ခွဲပြီး ဆွဲပြပေးထားတဲ့ ပုံပါ။ ဒီနေရာမှာ seed point ဆိုတာက အမျိုးမျိုး ဖြစ်နိုင်ပါတယ်။ ဥပမာ 2D seed point အနေနဲ့ ဆိုရင် x, y ပွိုင့်တွေလည်း ဖြစ်နိုင်ပါတယ်။ Partition တွေခွဲထားတဲ့ ဧရိယာ တစ်ပိုင်း တစ်ပိုင်းချင်းစီက ပေးထားတဲ့ x, y ပွိုင့်တွေ ရဲ့ တစ်ခုနဲ့ တစ်ခုအကြား အနီးဆုံး ဆိုတဲ့ ပွိုင့်တွေကို အခြေခံပြီးတော့မှ ခွဲထားတာ ဖြစ်ပါတယ်။ သင်္ချာမှာတော့ proximity to seed points လို့ ခေါ်ပါတယ်။ အဲဒီလို Voronoi diagram ဆွဲဖို့အတွက် နာမည်ကြီးတဲ့ algorithm တွေ ရှိပါတယ်။ အဲဒါတွေကတော့ အောက်ပါအတိုင်းပါ။   
 
 1. Fortune's Algorithm
