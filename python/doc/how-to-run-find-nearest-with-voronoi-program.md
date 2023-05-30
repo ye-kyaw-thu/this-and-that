@@ -55,6 +55,9 @@ python find-nearest-with-voronoi.py
 
 The following Voronoi diagram will plot:  
 
+<p float="left">
+   <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/voronoi-diagram.png" width="500" />
+</p>
 
 ## After that, you will get the following prompt for asking two numbers
 
