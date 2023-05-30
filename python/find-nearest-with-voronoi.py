@@ -16,7 +16,7 @@ def plot_voronoi(points):
 
     # Plot Voronoi diagram
     voronoi_plot_2d(vor)
-    plt.plot(points[:, 0], points[:, 1], 'ko')
+    plt.plot(points[:, 0], points[:, 1], 'ko') # here, ko is for ploting black circles (k = black and o = circle)
     plt.title('Voronoi diagram of locations')
     plt.show()
 
