@@ -67,6 +67,8 @@ Please input the coordinates of your residence (two numbers separated by a space
 The nearest location to your residence is at [5. 4.]
 ```
 
+ရိုက်ထည့်ပေးလိုက်တဲ့ 5, 3 အတွက် အနီးဆုံး ဆေးရုံက 5, 4 နေရာလို့ ပရိုဂရမ်က တွက်ပေးပါတယ်။  
+
 ## If you typed 5 and 5.5 
 
 ```
@@ -74,6 +76,8 @@ Please input the coordinates of your residence (two numbers separated by a space
 5 5.5
 The nearest location to your residence is at [5. 4.]
 ```
+
+ရိုက်ထည့်ပေးလိုက်တဲ့ 5, 5.5 အတွက် အနီးဆုံး ဆေးရုံကိုလည်း 5, 4 နေရာလို့ ပရိုဂရမ်က တွက်ပေးပါတယ်။  
 
 ## Reference
 
