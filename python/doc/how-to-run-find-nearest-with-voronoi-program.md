@@ -49,7 +49,7 @@ plt.show()
 
 ဒီ ဥပမာ Python code ကတော့ ဧရိယာ တစ်ခုမှာ ရှိတဲ့ ဆေးရုံ ခြောက်လုံး နေရာတွေကို 2D x, y position တွေ ပေးလိုက်ပြီးတော့ Vonoroi diagram ဆွဲကြည့်ပါတယ်။ ပြီးတော့မှ user ကပြောတဲ့ သူ့ အိမ်နေရာ x, y point ကို လက်ခံယူပြီး သူ့အိမ်နဲ့ အနီးဆုံး ဆေးရုံရဲ့ နေရာကို တွက်ချက်ပေးတာပါ။ Nearest distance ကို တွက်တဲ့ နေရာမှာတော့ Euclidean distances ကို သုံးထားပါတယ်။
 
-runnning example ကတော့ အောက်ပါအတိုင်းပါ။  
+[find-nearest-with-voronoi.py](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/find-nearest-with-voronoi.py) ပရိုဂရမ်ရဲ့ runnning example ကတော့ အောက်ပါအတိုင်းပါ။  
 
 python find-nearest-with-voronoi.py
 
