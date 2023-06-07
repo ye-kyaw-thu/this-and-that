@@ -11,7 +11,7 @@
 3. Calculating Euclidean distances with Voronoi diagram, [[python code]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/find-nearest-with-voronoi.py), [[Brief explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-find-nearest-with-voronoi-program.md)  
 4. Calculating Euclidean, Manhattan, Chebyshev, Minkowski and Cosine distances with Voronoi diagram, [[python code]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/find-several-nearest-with-voronoi.py), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-find-several-nearest-with-voronoi-program.md)  
 5. Print out Pascal's Triangle as text, [[pascal-triangle.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-pascal-triangle.md) 
-6. Print out Pascal's Triangle as SQLite database, [[pascal-triangle-sql.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle-sql.py) 
+6. Print out Pascal's Triangle as SQLite database, [[pascal-triangle-sql.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle-sql.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-pascal-triangle-py.md) 
 7. Fourier Transform (the Laplace transform ?!)  
 8. a new algorithom ?!   
 
