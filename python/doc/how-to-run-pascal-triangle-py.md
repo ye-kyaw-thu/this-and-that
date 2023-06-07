@@ -78,11 +78,23 @@ sqlite> .exit
 (base) rnd@gpu:~/demo/pascal-triangle$
 ```
 
+SQLite database အနေနဲ့ သိမ်းထားတဲ့ ရည်ရွယ်ချက်က triangle အကြီးကြီးတွေအတွက် ဖြစ်တာမို့လို့ ကိုယ့် access လုပ်ချင်တဲ့ row ကို ခေါ်ကြည့်တာမျိုး လုပ်လို့ ရပါတယ်။  
 
 ```
-
+(base) rnd@gpu:~/demo/pascal-triangle$ sqlite3 pascal.db
+SQLite version 3.31.1 2020-01-27 19:55:54
+Enter ".help" for usage hints.
+sqlite> SELECT * FROM PascalTriangle WHERE Row = 4;
+4|0|1
+4|1|7
+4|2|17
+4|3|15
+4|4|1
+sqlite> SELECT * FROM PascalTriangle WHERE Row = 2;
+2|0|1
+2|1|3
+2|2|1
+sqlite> .exit
+(base) rnd@gpu:~/demo/pascal-triangle$
 ```
 
-```
-
-```
