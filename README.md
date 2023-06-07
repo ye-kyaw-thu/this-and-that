@@ -10,6 +10,7 @@
 2. 7 methods of prime number calculation, [python code](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/7-prime-no-calculaitons.py), [Brief explanation of ChatGPT4](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/10-methods-for-prime-no-calculations.md)
 3. Calculating Euclidean distances with Voronoi diagram, [python code](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/find-nearest-with-voronoi.py), [Brief explanation](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-find-nearest-with-voronoi-program.md)  
 4. Calculating Euclidean, Manhattan, Chebyshev, Minkowski and Cosine distances with Voronoi diagram, [python code](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/find-several-nearest-with-voronoi.py), [explanation](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-find-several-nearest-with-voronoi-program.md)  
-5. Fourier Transform (the Laplace transform ?!)  
-6. a new algorithom ?!   
+5. Print out Pascal's Triangle [pascal-triangle.p](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle.py)  
+6. Fourier Transform (the Laplace transform ?!)  
+7. a new algorithom ?!   
 
