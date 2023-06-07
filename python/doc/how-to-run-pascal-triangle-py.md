@@ -1,5 +1,20 @@
 # How to run pascal-triangle-sql.py
 
+Help screen ကတော့ -h or --help option နဲ့ ခေါ်ကြည့်လို့ ရပါတယ်။  
+
+```
+(base) rnd@gpu:~/demo/pascal-triangle$ python ./pascal-triangle-sql.py -h
+usage: pascal-triangle-sql.py [-h] n type
+
+positional arguments:
+  n           Number of rows for Pascal's Triangle
+  type        Type of Pascal's Triangle (standard, hypercubes)
+
+optional arguments:
+  -h, --help  show this help message and exit
+(base) rnd@gpu:~/demo/pascal-triangle$
+```
+
 Standard သို့မဟုတ် ပုံမှန် Pascal's Triangle ကို Row ၅ခုနဲ့ ဆောက်မယ် ဆိုရင် ...  
 
 ```
