@@ -9,6 +9,8 @@ How to run:
 python ./pascal-triangle.py -h
 python ./pascal-triangle.py 5 standard out.txt
 python ./pascal-triangle.py 5 hypercubes out.txt
+
+Reference: https://en.wikipedia.org/wiki/Pascal%27s_triangle
 """
 
 import argparse
