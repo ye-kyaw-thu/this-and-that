@@ -12,7 +12,7 @@
 4. Calculating Euclidean, Manhattan, Chebyshev, Minkowski and Cosine distances with Voronoi diagram, [[python code]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/find-several-nearest-with-voronoi.py), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-find-several-nearest-with-voronoi-program.md)  
 5. Print out Pascal's Triangle as text, [[pascal-triangle.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-pascal-triangle.md) 
 6. Print out Pascal's Triangle as SQLite database, [[pascal-triangle-sql.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle-sql.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-pascal-triangle-py.md) 
-7. Monty Hall problem simulation no. 1, [[monty-hall.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/monty-hall.py)  
+7. Monty Hall problem simulation no. 1, [[monty-hall.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/monty-hall.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/monty-hall.md)  
 8. Fourier Transform (the Laplace transform ?!)  
 9. a new algorithom ?!   
 
