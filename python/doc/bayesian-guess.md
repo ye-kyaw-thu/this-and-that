@@ -10,7 +10,7 @@ Let's start the game!
 ```
 
 <p align="center">
-  <img width="200" src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/belief1.png" alt="Current belief about player's guess">
+  <img width="500" src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/belief1.png" alt="Current belief about player's guess">
 </p>
 
 ```
