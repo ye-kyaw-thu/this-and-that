@@ -14,7 +14,7 @@
 6. Print out Pascal's Triangle as SQLite database, [[pascal-triangle-sql.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/pascal-triangle-sql.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/how-to-run-pascal-triangle-py.md) 
 7. Monty Hall problem simulation no. 1, [[monty-hall.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/monty-hall.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/monty-hall.md)  
 8. Monty Hall problem simulation no. 2, [[monty-hall-10games.py]](), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/monty-hall-10games.py)  
-9. Guessing with Bayesian, [[]](), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/bayesian-guess.md)  
+9. Guessing with Bayesian, [[bayesian-guess.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/bayesian-guess.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/bayesian-guess.md)  
 10. Fourier Transform (the Laplace transform ?!)  
 11. a new algorithom ?!   
 
