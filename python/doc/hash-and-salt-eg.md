@@ -1,11 +1,19 @@
 # How to Run
 
+User နှစ်ယောက်က password ကို တူတာမျိုးလည်း ဖြစ်နိုင်တယ်လေ။ အဲဒီလို ပြဿနာမျိုးအတွက် password တစ်ခုတည်းကိုပဲ encrypt လုပ်ပြီး သိမ်းတာမျိုး လက်တွေ့မှာ မလုပ်ကြပါဘူး။  
+User ရဲ့ password အပြင် ကျပန်း hash code တစ်ခုကိုပါ ထပ်ဖြည့်ပြီးမှ တွဲပြီးသိမ်းလေ့ရှိပါတယ်။ အဲဒီ အလုပ်ကို python code နဲ့ ရေးကြည့်ထားတာပါ။  
+
+Running example ကတော့ ...  
+username နဲ့ password မှန်ရင် login ဝင်လို့ ရလိမ့်မယ်။  
+
 ```
 >python hash-and-salt-eg.py
 Enter your username: user1
 Enter your password:
 Login successful!
 ```
+
+password ကို ဆက်တိုက်မှားရင် အဲဒီ user ကို အချိန်အတိုင်းအတာ တစ်ခုထိ login ဝင်လို့ မရအောင် လုပ်ရလိမ့်မယ်။  
 
 ```
 >python hash-and-salt-eg.py
@@ -18,6 +26,9 @@ Enter your password:
 Incorrect password.
 Too many failed attempts. Try again later.
 ```
+
+username, salt, password တွေကို plain json ဖိုင်နဲ့ သိမ်းပြထားတာပါ။  
+လက်တွေ့မှာက encryption သေသေချာချာ လုပ်ပြီးမှ သိမ်းထားတာပါ။  
 
 ```
 >type user_data.json
