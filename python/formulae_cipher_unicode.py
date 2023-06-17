@@ -1,6 +1,6 @@
 ## Testing by Ye Kyaw Thu, Visiting Professor, LST, NECTEC, Thailand
-## ဒီဟာကို encryption/decription အတွက် တိုက်ရိုက်ယူ မသုံးသင့်ပါဘူး။ 
-## လွယ်တဲ့ math formula နဲ့ encryption/decryption စမ်းကြည့်ထားတာပါ။
+## ဒီ code ကို encryption/decription အတွက် တိုက်ရိုက်ယူ မသုံးသင့်ပါဘူး။ 
+## လွယ်တဲ့ math formula တချို့နဲ့ ဗမာစာ အပါအဝင် Unicode text တွေကို encryption/decryption စမ်းလုပ်ကြည့်ထားတာပါ။  
 
 # Encryption method 1: Add key to the Unicode code point of each character.
 def encrypt1(message, key):
