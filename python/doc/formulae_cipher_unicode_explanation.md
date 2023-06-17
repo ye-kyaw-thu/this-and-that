@@ -63,9 +63,7 @@ Encryption လုပ်တဲ့အခါမှာ `c` ကနေ `c'` ကို 
     - Decryption: `c = (c' - key⁴) mod 0x110000`
     - This is similar to Method 1, but the key is raised to the power of 4.
 
-10.
-
- **Method 10:**
+10. **Method 10:**
 
     - Encryption: `c' = (c + key * n²) mod 0x110000`
     - Decryption: `c = (c' - key * n²) mod 0x110000`
