@@ -16,7 +16,7 @@
 8. Monty Hall problem simulation no. 2, [[monty-hall-10games.py]](), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/monty-hall-10games.py)  
 9. Guessing with Bayesian, [[bayesian-guess.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/bayesian-guess.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/bayesian-guess.md)  
 10. Encryption, Decryption with some simple maths, [[formulae_cipher_unicode.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/formulae_cipher_unicode.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/formulae_cipher_unicode.md), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/formulae_cipher_unicode_explanation.md)  
-11. Adding salt to hashing, [[hash-and-salt-eg.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/hash-and-salt-eg.py), [[How to run]]()  
+11. Adding salt to hashing, [[hash-and-salt-eg.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/hash-and-salt-eg.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/hash-and-salt-eg.md)  
 12. Fourier Transform (the Laplace transform ?!)  
 13. a new algorithom ?!   
 
