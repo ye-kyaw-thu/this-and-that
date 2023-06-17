@@ -1,6 +1,6 @@
 # Brief Explanation
 
-ရေးထားတဲ့ code မှာ သုံးထားတဲ့ encryption, decryption တစ်ခုချင်းစီအတွက် သင်္ချာအပိုင်းက အောက်ပါအတိုင်းပါ။  
+ရေးထားတဲ့ code မှာ သုံးထားတဲ့ encryption, decryption နည်းလမ်း တစ်ခုချင်းစီအတွက် သင်္ချာအပိုင်းက အောက်ပါအတိုင်းပါ။  
 ဒီနေရာမှာ   
 
 `n` = index of the character in the message    
