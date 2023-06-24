@@ -1,5 +1,7 @@
 # Finite Difference
 
+Here f(x) = x^2.  
+
 ```
 (base) C:\Users\ye\.spyder-py3>python finite_difference.py 3
 x       f(x)    1st diff        2nd diff
