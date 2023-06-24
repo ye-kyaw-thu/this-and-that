@@ -16,4 +16,4 @@ The operation of the Difference Engine was based on the principle of finite diff
 
 The basic operation of the Difference Engine involved setting up a series of "registers" with the initial values of the function and its finite differences. Then, the engine would repeatedly perform the operation of adding the last finite difference to the last value of the function, and updating the finite differences accordingly. This allowed it to compute the values of the function for a sequence of x values.
 
-One important thing to note is that the Difference Engine was capable of handling polynomials of any degree. It would simply need more registers to hold the higher order finite differences. This made it a very versatile tool for its time
+One important thing to note is that the Difference Engine was capable of handling polynomials of any degree. It would simply need more registers to hold the higher order finite differences. This made it a very versatile tool for its time.
