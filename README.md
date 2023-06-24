@@ -17,7 +17,7 @@
 9. Guessing with Bayesian, [[bayesian-guess.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/bayesian-guess.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/bayesian-guess.md)  
 10. Encryption, Decryption with some simple maths, [[formulae_cipher_unicode.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/formulae_cipher_unicode.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/formulae_cipher_unicode.md), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/formulae_cipher_unicode_explanation.md)  
 11. Adding salt to hashing, [[hash-and-salt-eg.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/hash-and-salt-eg.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/hash-and-salt-eg.md)
-12. Finite Difference, [[finite_difference.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/finite_difference.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference.md)  
+12. Finite Difference, [[finite_difference.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/finite_difference.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference.md), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference_explanation.md)  
 13. Fourier Transform (the Laplace transform ?!)  
 14. a new algorithom ?!   
 
