@@ -21,6 +21,8 @@ def calculate_square(n):
     # Initialize the table of f(x) and differences
     x_values = list(range(1, n+2))
     fx_values = [x**2 for x in x_values]
+    #print("x_values: ", x_values)
+    #print("fx_values:", fx_values)
     first_differences = [fx_values[i+1]-fx_values[i] for i in range(len(fx_values)-1)]
     second_differences = [first_differences[i+1]-first_differences[i] for i in range(len(first_differences)-1)]
     
