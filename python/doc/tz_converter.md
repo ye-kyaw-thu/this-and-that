@@ -4,3 +4,54 @@ Time Zone တွေနဲ့ ပတ်သက်ပြီး ပထမဆုံ�
 
 သို့သော်လည်း တကယ်တန်း time zone တွေကို သတ်မှတ်ပုံ၊ တွက်ချက်ပုံတွေက ဂျပန်ရောက်တဲ့အခါမှပဲ ပိုနားလည်ခဲ့ပါတယ်။ ခန့်မှန်းခြေအားဖြင့် time zone သတ်မှတ်ချက်တွေက ၃၈ ခုလောက်ထိ ရှိပါတယ်။ တကယ်တမ်း လက်ရှိမှာ ကမ္ဘာတဝှမ်း တွင်တွင်ကျယ်ကျယ် သုံးနေကြတဲ့ system နှစ်ခုကတော့ Greenwich Mean Time (GMT) နဲ့ Coordinated Universal Time (UTC) ဆိုတဲ့ နှစ်မျိုးပါ။ GMT ကတော့ လောင်ဂျီတွဒ် လိုင်းတွေအပေါ်ကို အခြေခံပြီး တွက်တာ ဖြစ်ပြီးတော့၊ UTC ကတော့ ကမ္ဘာကြီးရဲ့ လှည့်ပတ်တဲ့နှုန်း အပေါ်ကို ညှိပြီး တွက်တဲ့ စနစ်ဖြစ်ပါတယ်။  
 
+## How to run
+
+python tz_converter.py --help
+usage: tz_converter.py [-h] [-l] [Time]
+
+Convert time between timezones.
+
+positional arguments:
+  Time        the time to be converted in the format "HH:MM AM/PM TZ" or "HH:MM, AM/PM, TZ"
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -l, --list  List countries associated with each timezone
+
+python tz_converter.py "10:57 PM EST"
+08:00 PM PST
+03:53 AM UTC
+09:46 AM IST
+03:53 AM GMT
+
+python tz_converter.py "03:53 am GMT"
+08:00 PM PST
+10:57 PM EST
+03:53 AM UTC
+09:46 AM IST
+
+python tz_converter.py "8:00 pm pst"
+10:57 PM EST
+03:53 AM UTC
+09:46 AM IST
+03:53 AM GMT
+
+python tz_converter.py "8:00, AM, UTC"
+12:07 AM PST
+03:04 AM EST
+01:53 PM IST
+08:00 AM GMT
+
+python tz_converter.py -l
+Asia/Kolkata: India
+America/New_York: United States
+America/Los_Angeles: United States
+
+python tz_converter.py -l
+PST: United States, Canada, Mexico
+EST: United States, Canada, Mexico, Panama, Ecuador, Peru, Colombia
+UTC: Ghana, Iceland, Côte d'Ivoire, Burkina Faso, Gambia, Senegal, Mali, Guinea, Guinea-Bissau, Sierra Leone, Liberia
+IST: India
+GMT: United Kingdom, Ireland, Portugal, Iceland, Ghana, Côte d'Ivoire, Burkina Faso, Gambia, Senegal, Mali, Guinea, Guinea-Bissau, Sierra Leone, Liberia
+
+
