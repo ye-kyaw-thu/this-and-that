@@ -6,6 +6,8 @@ Time Zone တွေနဲ့ ပတ်သက်ပြီး ပထမဆုံ�
 
 ## How to run
 
+အရင်ဆုံး --help option နဲ့ help screen ကို ခေါ်ကြည့်ရအောင် ...  
+
 ```
 python tz_converter.py --help
 usage: tz_converter.py [-h] [-l] [Time]
@@ -20,6 +22,8 @@ optional arguments:
   -l, --list  List countries associated with each timezone
 ```
 
+ကိုယ့်က EST အချိန်ကို သတ်မှတ်ထားတဲ့ format အတိုင်း ရိုက်ထည့်လိုက်ရင် သူနဲ့ ညီတဲ့ တခြား time zone တွေရဲ့ အချိန်တွေကို ဖော်ပြပေးပါလိမ့်မယ်။  
+
 ```
 python tz_converter.py "10:57 PM EST"
 08:00 PM PST
@@ -27,6 +31,8 @@ python tz_converter.py "10:57 PM EST"
 09:46 AM IST
 03:53 AM GMT
 ```
+
+am, pm တို့ကို အကြီးနဲ့ ရိက်ရိုက်၊ အသေးနဲ့ ရိုက်ရိုက် လက်ခံပါတယ်။ ထိုနည်းလည်းကောင်း gmp, GMT, pst, PST, est, EST, utc, UTC, ist, IST တို့ကိုလည်း အကြီးနဲ့ပဲ ရိုက်ရိုက်၊ အသေးနဲ့ပဲ ရိုက်ရိုက်၊ အကြီးအသေး ရောပြီးပဲ ရိုက်ရိုက် ပရိုဂရမ်က လက်ခံပြီး အလုပ်လုပ်ပါတယ်။  
 
 ```
 python tz_converter.py "03:53 am GMT"
@@ -36,6 +42,8 @@ python tz_converter.py "03:53 am GMT"
 09:46 AM IST
 ```
 
+ဒီတခါတော့ Pacific Standard Time ကို ပြောင်းခိုင်းကြည့်ရအောင် ...  
+
 ```
 python tz_converter.py "8:00 pm pst"
 10:57 PM EST
@@ -43,6 +51,8 @@ python tz_converter.py "8:00 pm pst"
 09:46 AM IST
 03:53 AM GMT
 ```
+
+ဒီတခါတော့ Coordinated Universal Time သို့မဟုတ် Universal Time Coordinated (UTC) အချိန်ကို ရိုက်ထည့်ပြီး ပြောင်းခိုင်းကြည့်ရအောင် ...  
 
 ```
 python tz_converter.py "8:00, AM, UTC"
@@ -52,12 +62,7 @@ python tz_converter.py "8:00, AM, UTC"
 08:00 AM GMT
 ```
 
-```
-python tz_converter.py -l
-Asia/Kolkata: India
-America/New_York: United States
-America/Los_Angeles: United States
-```
+-l or --list option နဲ့ အဓိက ဆက်စပ်နေတဲ့ နိုင်ငံတချို့ကို ရိုက်ထုတ်ကြည့်ရအောင်။  
 
 ```
 python tz_converter.py -l
