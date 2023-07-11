@@ -6,6 +6,7 @@ Time Zone တွေနဲ့ ပတ်သက်ပြီး ပထမဆုံ�
 
 ## How to run
 
+```
 python tz_converter.py --help
 usage: tz_converter.py [-h] [-l] [Time]
 
@@ -17,41 +18,53 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
   -l, --list  List countries associated with each timezone
+```
 
+```
 python tz_converter.py "10:57 PM EST"
 08:00 PM PST
 03:53 AM UTC
 09:46 AM IST
 03:53 AM GMT
+```
 
+```
 python tz_converter.py "03:53 am GMT"
 08:00 PM PST
 10:57 PM EST
 03:53 AM UTC
 09:46 AM IST
+```
 
+```
 python tz_converter.py "8:00 pm pst"
 10:57 PM EST
 03:53 AM UTC
 09:46 AM IST
 03:53 AM GMT
+```
 
+```
 python tz_converter.py "8:00, AM, UTC"
 12:07 AM PST
 03:04 AM EST
 01:53 PM IST
 08:00 AM GMT
+```
 
+```
 python tz_converter.py -l
 Asia/Kolkata: India
 America/New_York: United States
 America/Los_Angeles: United States
+```
 
+```
 python tz_converter.py -l
 PST: United States, Canada, Mexico
 EST: United States, Canada, Mexico, Panama, Ecuador, Peru, Colombia
 UTC: Ghana, Iceland, Côte d'Ivoire, Burkina Faso, Gambia, Senegal, Mali, Guinea, Guinea-Bissau, Sierra Leone, Liberia
 IST: India
 GMT: United Kingdom, Ireland, Portugal, Iceland, Ghana, Côte d'Ivoire, Burkina Faso, Gambia, Senegal, Mali, Guinea, Guinea-Bissau, Sierra Leone, Liberia
-
+```
 
