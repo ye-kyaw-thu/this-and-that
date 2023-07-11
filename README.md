@@ -19,6 +19,6 @@
 11. Adding salt to hashing, [[hash-and-salt-eg.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/hash-and-salt-eg.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/hash-and-salt-eg.md)
 12. Finite Difference, [[finite_difference.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/finite_difference.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference.md), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference_explanation.md)  
 13. Fourier Transform (the Laplace transform ?!)
-14. Time zone converter, [[tz_converter.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/tz_converter.py), [[How to run]]()
+14. Time zone converter, [[tz_converter.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/tz_converter.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/tz_converter.md)  
 15. a new algorithom ?!   
 
