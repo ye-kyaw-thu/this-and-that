@@ -5,8 +5,8 @@
 Help screen ခေါ်ကြည့်ရင် ...  
 
 ```
-python information_theory3.py --help
-usage: information_theory3.py [-h] -c CORPUS_FILENAME -n TOP_N_WORDS
+python mi_scores.py --help
+usage: mi_scores.py [-h] -c CORPUS_FILENAME -n TOP_N_WORDS
 
 Compute top N words with highest mutual information.
 
@@ -82,7 +82,7 @@ text,sentiment
 Run လို့ error မရှိရင်တော့ အောက်ပါအတိုင်း MI scores တွေထဲကနေ top 30 words ကို ဆွဲထုတ်ပေးပါလိမ့်မယ်။  
 
 ```
-python information_theory3.py -c .\corpus\sentiment\sentiment_my_dataset.csv -n 30
+python mi_scores.py -c .\corpus\sentiment\sentiment_my_dataset.csv -n 30
 C:\Users\ye\Anaconda3\lib\site-packages\sklearn\feature_extraction\text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
   warnings.warn(
 ဘူး: 0.0590
