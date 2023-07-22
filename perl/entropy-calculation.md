@@ -10,9 +10,9 @@ In information theory, the entropy of a random variable is the average level of 
 
 $$
 \begin{align}
-\Huge H(X) = \sum_\limits{i=1}^{n} p(x_{i}) I(x_{i})\\  
-\Huge = \sum_\limits{i=1}^{n} p(x_{i}) \log_b \frac{1}{p(x_{i})}\\    
-\Huge = - \sum_\limits{i=1}^{n} \log_{b}p(x_{i})\\   
+\Huge H(X) &= \sum_\limits{i=1}^{n} p(x_{i}) I(x_{i})\\  
+\Huge &= \sum_\limits{i=1}^{n} p(x_{i}) \log_b \frac{1}{p(x_{i})}\\    
+\Huge &= - \sum_\limits{i=1}^{n} \log_{b}p(x_{i})\\   
 \end{align}
 $$
 
