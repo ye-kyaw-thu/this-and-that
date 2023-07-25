@@ -4,8 +4,8 @@ Created on Tue Jul 25 11:38:35 2023
 @author: Ye Kyaw Thu, LU Lab., Myanmar
 
 How to run:
-python juda_goats_experiment.py breast_cancer
-python juda_goats_experiment.py diabetes
+python judas_goats_experiment.py breast_cancer
+python judas_goats_experiment.py diabetes
 """
 
 import numpy as np
