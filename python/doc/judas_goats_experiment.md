@@ -14,6 +14,7 @@
 </p>
 <div align="center">
      Fig. Results with Iris dataset
+</div>
 <br />
 
 <p align="center" width="100%">
