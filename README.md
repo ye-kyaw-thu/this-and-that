@@ -20,6 +20,7 @@
 12. Finite Difference, [[finite_difference.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/finite_difference.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference.md), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/finite_difference_explanation.md)  
 13. Fourier Transform (the Laplace transform ?!)
 14. Time zone converter, [[tz_converter.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/tz_converter.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/tz_converter.md)
-15. Mutual Information Scores Calculation, [[mi_scores.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/mi_scores.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/mi_scores.md)  
-16. a new algorithom ?!   
+15. Mutual Information Scores Calculation, [[mi_scores.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/mi_scores.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/mi_scores.md)
+16. Juda Goats Experiment, [[juda_goats_experiment.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/juda_goats_experiment.py), [[How to run]]()  
+17. a new algorithom ?!   
 
