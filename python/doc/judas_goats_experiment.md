@@ -3,7 +3,9 @@
  
 <p align="center">
     <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_iris.png" alt="Result with Iris dataset" width="95%"/>
-<h3 align="center">Fig. Results with Iris dataset</h3>
+<center>
+ Fig. Results with Iris dataset
+</center>
 </p>    
 <br />
 
