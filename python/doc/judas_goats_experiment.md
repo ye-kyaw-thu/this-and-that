@@ -3,7 +3,7 @@
 ## Testing with Iris Dataset
 
 <p align="center">
-    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_iris.png" alt="Result with Iris dataset" width="95%"/>  
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_iris.png" alt="Result with Iris dataset" width="900"/>  
 </p>
 <div align="center">
  Fig. Results with Iris dataset  
@@ -12,7 +12,7 @@
 ## Testing with Wine Dataset
 
 <p align="center">
-    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_wine.png" alt="Result with Wine dataset" width="95%"/> 
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_wine.png" alt="Result with Wine dataset" width="900"/> 
 </p>
 <div align="center">
      Fig. Results with Wine dataset  
@@ -21,7 +21,7 @@
 ## Testing with Digits Dataset
 
 <p align="center">
-    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_digits.png" alt="Result with Digits dataset" width="95%">
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_digits.png" alt="Result with Digits dataset" width="900"/>
 </p>
 <div align="center">
      Fig. Results with Digits dataset  
@@ -30,7 +30,7 @@
 ## Testing with Breast Cancer Dataset
 
 <p align="center">
-    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_breast_cancer.png" alt="Result with Breast_Cancer dataset" width="95%"/>
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_breast_cancer.png" alt="Result with Breast_Cancer dataset" width="900"/>
 </p>
 <div align="center">
      Fig. Results with Breast Cancer dataset  
@@ -39,7 +39,7 @@
 ## Testing with Diabetes Dataset
 
 <p align="center">
-    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_diabetes.png" alt="Result with Diabetes dataset" width="95%"/>
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_diabetes.png" alt="Result with Diabetes dataset" width="900"/>
 </p>
 <div align="center">
      Fig. Results with Diabetes dataset  
