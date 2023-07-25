@@ -12,26 +12,26 @@
     <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_wine.png" alt="Result with Wine dataset" width="95%"/> 
 </p>
 <div align="center">
-     Fig. Results with Wine dataset
+     Fig. Results with Wine dataset  
 </div>
 
 <p align="center">
-    <img width="95%" src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_digits.png" alt="Result with Digits dataset" width="95%">
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_digits.png" alt="Result with Digits dataset" width="95%">
 </p>
 <div align="center">
-     Fig. Results with Digits dataset
+     Fig. Results with Digits dataset  
 </div>
 
 <p align="center">
-    <img width="95%" src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_breast_cancer.png" alt="Result with Breast_Cancer dataset" width="95%"/>
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_breast_cancer.png" alt="Result with Breast_Cancer dataset" width="95%"/>
 </p>
 <div align="center">
-     Fig. Results with Breast Cancer dataset
+     Fig. Results with Breast Cancer dataset  
 </div>
 
 <p align="center">
-    <img width="95%" src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_diabetes.png" alt="Result with Diabetes dataset" width="95%"/>
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_diabetes.png" alt="Result with Diabetes dataset" width="95%"/>
 </p>
 <div align="center">
-     Fig. Results with Diabetes dataset
+     Fig. Results with Diabetes dataset  
 </div>
