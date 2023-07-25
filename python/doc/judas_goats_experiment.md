@@ -2,13 +2,10 @@
 
  
 <p align="center">
-    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_iris.png" alt="Result with Iris dataset" width="95%"/>
-</p>    
-<p>
+    <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_iris.png" alt="Result with Iris dataset" width="95%">
  Fig. Results with Iris dataset
 </p>
 <br />
-
 
 <p align="center">
     <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/results_wine.png" alt="Result with Wine dataset" width="95%" />
