@@ -13,10 +13,20 @@ PadsintTuringMachine လို့နာမည်ပေးထားတဲ့ pyth
 Python code ကို ဖတ်တတ်တဲ့ သူဆိုရင် နားလည်ပြီးသားလို့ ယူဆပေမဲ့...  
 Initialize လုပ်သွားတာတွေကို Pseudo code အနေနဲ့ ရေးပြရရင်တော့ အောက်ပါအတိုင်းပါ။  
 
-    - Set `state` to 'START'
-    - Initialize `buffer` as an empty list
-    - Initialize `subscripts` as an empty list for collecting found subscript consonants
-    - Store `input_file`
+```pseudo
+BEGIN
+
+    SET state TO 'START'
+    
+    INITIALIZE buffer AS EMPTY LIST
+    
+    INITIALIZE subscripts AS EMPTY LIST
+    COMMENT "This list collects found subscript consonants"
+    
+    STORE input_file
+
+END
+```
 
 ဒုတိယ process_char လို့ နာမည်ပေးထားတဲ့ function ပါ။  
 
