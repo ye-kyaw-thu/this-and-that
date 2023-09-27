@@ -22,6 +22,6 @@
 14. Time zone converter, [[tz_converter.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/tz_converter.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/tz_converter.md)
 15. Mutual Information Scores Calculation, [[mi_scores.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/mi_scores.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/mi_scores.md)
 16. Judas Goats Experiment, [[judas_goats_experiment.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/judas_goats_experiment.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/tree/main/python/doc/judas_goats_experiment.md)
-17. Turing Machine for detecting Burmese subscript combinations or Padsints [[padsint_turing.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/padsint_turing.py), [[explanation]]()  
+17. Turing Machine for detecting Burmese subscript combinations or Padsints [[padsint_turing.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/padsint_turing.py), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/padsint_truing.md)  
 18. a new algorithom ?!   
 
