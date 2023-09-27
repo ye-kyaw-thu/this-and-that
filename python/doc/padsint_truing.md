@@ -44,16 +44,21 @@ END
 
 Pseudo code လိုမျိုး ရေးပြရရင်တော့ အောက်ပါအတိုင်းဖြစ်ပါလိမ့်မယ်။  
 
-    - **If** `state` is 'START':
-        - **If** `char` is '္':
-            - Set `state` to 'FOUND_SUBSCRIPT'
-        - **Else**:
-            - Append `char` to `buffer`
-    - **ElseIf** `state` is 'FOUND_SUBSCRIPT':
-        - **If** `char` is not a newline and `buffer` is not empty:
-            - Construct `stacked_syllable` as the last character of `buffer` followed by '္' and `char`
-            - Append `stacked_syllable` to `subscripts`
-        - Set `state` to 'START'
+```pseudo
+IF state IS 'START' THEN
+    IF char IS '္' THEN
+        SET state TO 'FOUND_SUBSCRIPT'
+    ELSE
+        APPEND char TO buffer
+    END IF
+ELSE IF state IS 'FOUND_SUBSCRIPT' THEN
+    IF char IS NOT NEWLINE AND buffer IS NOT EMPTY THEN
+        CONSTRUCT stacked_syllable FROM LAST CHARACTER OF buffer + '္' + char
+        APPEND stacked_syllable TO subscripts
+    END IF
+    SET state TO 'START'
+END IF
+```
         
 ## How to run
 
