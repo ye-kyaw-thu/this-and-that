@@ -17,12 +17,8 @@ Initialize လုပ်သွားတာတွေကို Pseudo code အန�
 BEGIN
 
     SET state TO 'START'
-    
     INITIALIZE buffer AS EMPTY LIST
-    
     INITIALIZE subscripts AS EMPTY LIST
-    COMMENT "This list collects found subscript consonants"
-    
     STORE input_file
 
 END
