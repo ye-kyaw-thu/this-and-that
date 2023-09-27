@@ -1,7 +1,6 @@
 # Demo of Appling Turing Machine for Searching Padsints
 
-PadsintTuringMachine လို့နာမည်ပေးထားတဲ့ python class ထဲက အရေးကြီးတဲ့ အပိုင်းနှစ်ပိုင်းကို နားလည်ရင် ရပါပြီ။  
-ပထမ အပိုင်းက initialization လုပ်တဲ့ အပိုင်းပါ။  
+PadsintTuringMachine လို့နာမည်ပေးထားတဲ့ python class ထဲက အရေးကြီးတဲ့ အပိုင်းနှစ်ပိုင်းကို နားလည်ရင် ရပါပြီ။ ပထမ အပိုင်းက initialization လုပ်တဲ့ အပိုင်းပါ။  
 
 ```python
     def __init__(self, input_file):
