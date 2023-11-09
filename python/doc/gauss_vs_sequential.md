@@ -45,12 +45,31 @@ Space Complexity: O(1) - Memory/space အနေနဲ့ ကြည့်မယ�
 ### Sequential Method (sequential_sum function):
 
 Time Complexity: O(n) - ဘာကြောင့်လဲ ဆိုတော့ ဒီ function မှာက loop ရှိနေပြီးတော့ loop ပတ်ရမယ့် အရေအတွက်က n တန်ဖိုး (i.e. start to end) ပေါ်မူတည်နေလို့ပါ။  
-Space Complexity: O(1) - operation အရေအတွက်မှာက n ပေါ်ကို မူတည်ပြီး အပြောင်းအလဲ ရှိပေမဲ့၊ memory/space အနေနဲ့ကတော့ အပြောင်းအလဲ မရှိပါဘူး။   
-ဘာကြောင့်လဲ ဆိုတော့ စုစုပေါင်း ပေါင်းလို့ ရလာတဲ့ တန်ဖိုးကိုသိမ်းဖို့ တနေရာပဲ သုံးမှာ မလို့ပါ။  
+Space Complexity: O(1) - operation အရေအတွက်မှာက n ပေါ်ကို မူတည်ပြီး အပြောင်းအလဲ ရှိပေမဲ့၊ memory/space အနေနဲ့ကတော့ အပြောင်းအလဲ မရှိပါဘူး။ ဘာကြောင့်လဲ ဆိုတော့ စုစုပေါင်း ပေါင်းလို့ ရလာတဲ့ တန်ဖိုးကိုသိမ်းဖို့ တနေရာပဲ သုံးမှာ မလို့ပါ။  
 
 ## Running Examples
 
+```
+(base) ye@lst-gpu-3090:~/exp/demo$ python ./gauss_vs_sequential.py 1 100
+Gauss Method: Sum = 5050, Time = 0.000001 seconds, Complexity: O(1)
+Sequential Method: Sum = 5050, Time = 0.000003 seconds, Complexity: O(n)
+```
 
+```
+(base) ye@lst-gpu-3090:~/exp/demo$ python ./gauss_vs_sequential.py 1 1000000
+Gauss Method: Sum = 500000500000, Time = 0.000001 seconds, Complexity: O(1)
+Sequential Method: Sum = 500000500000, Time = 0.016882 seconds, Complexity: O(n)
+```
 
+```
+(base) ye@lst-gpu-3090:~/exp/demo$ python ./gauss_vs_sequential.py 1 100000000
+Gauss Method: Sum = 5000000050000000, Time = 0.000001 seconds, Complexity: O(1)
+Sequential Method: Sum = 5000000050000000, Time = 1.659063 seconds, Complexity: O(n)
+```
 
+```
+(base) ye@lst-gpu-3090:~/exp/demo$ python ./gauss_vs_sequential.py 1 1000000000
+Gauss Method: Sum = 500000000500000000, Time = 0.000001 seconds, Complexity: O(1)
+Sequential Method: Sum = 500000000500000000, Time = 16.644614 seconds, Complexity: O(n)
+```
 
