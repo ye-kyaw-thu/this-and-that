@@ -8,7 +8,7 @@ python ./color_game.py -n 3
 ```
 
 <p align="center">
-<img src="" alt="playing with color names" width="800"/>  
+<img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/color_game_window_eg.png" alt="playing with color names" width="800"/>  
 </p>  
 <div align="center">
   Fig.1 Playing with default color names  
