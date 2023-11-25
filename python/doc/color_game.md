@@ -28,7 +28,7 @@ python ./color_game.py -n 3 -m hex
 <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/color_game_window_eg2.png" alt="playing with color names width="10" />  
 </p>  
 <div align="center">
-  Fig.1 Playing with color hex numbers  
+  Fig.2 Playing with color hex numbers  
 </div> 
 
 <br />
