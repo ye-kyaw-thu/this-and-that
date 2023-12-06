@@ -13,10 +13,10 @@ input ဝင်လာတဲ့ ပန်းချီကားကို "matching
 ## What is a* and b*
 
 ### a*
-"a*": This component represents the position on the green-to-red axis. A positive "a*" value indicates a color with a red hue, while a negative "a*" value indicates a green hue. The zero point on the "a*" axis represents neutral gray.
+a*: This component represents the position on the green-to-red axis. A positive "a*" value indicates a color with a red hue, while a negative "a*" value indicates a green hue. The zero point on the "a*" axis represents neutral gray.
 
 ### b*
-"b*": This component represents the position on the blue-to-yellow axis. A positive "b*" value indicates a color with a yellow hue, while a negative "b*" value indicates a blue hue. The zero point on the "b*" axis represents neutral gray.
+b*: This component represents the position on the blue-to-yellow axis. A positive "b*" value indicates a color with a yellow hue, while a negative "b*" value indicates a blue hue. The zero point on the "b*" axis represents neutral gray.
   
 ## --help
 
