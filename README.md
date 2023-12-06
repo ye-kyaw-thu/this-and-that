@@ -25,6 +25,6 @@
 17. Turing Machine for detecting Burmese subscript combinations or Padsints [[padsint_turing.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/padsint_turing.py), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/padsint_truing.md)
 18. The formula for the sum of an arithmetic progression [gauss_vs_sequential.py](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/gauss_vs_sequential.py), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/gauss_vs_sequential.md)
 19. The color game, [[color_game.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/color_game.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/color_game.md)
-20. Analysis of colour statistics of art paintings and natural scenes to test the ‘matching-to-nature’ hypothesis on colour preference, [[color_statistics_analysis.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/color_statistics_analysis.py), [[How to run]]()
+20. Analysis of colour statistics of art paintings and natural scenes to test the ‘matching-to-nature’ hypothesis on colour preference, [[color_statistics_analysis.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/color_statistics_analysis.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/color_statistics_analysis.md)
 21. a new algorithom ?!   
 
