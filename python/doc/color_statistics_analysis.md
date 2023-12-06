@@ -43,6 +43,9 @@ user	0m0.934s
 sys	0m1.940s
 ```
 
+The Fighting Temeraire by Joseph Mallord William Turner:  
+![The Fighting Temeraire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/1024px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)
+
 ```
 (base) ye@lst-gpu-3090:~/exp/demo/color_statistics$ time python color_statistics_analysis.py ./pic/969px-The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg
 Color Statistics for ./pic/969px-The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg:
@@ -56,13 +59,9 @@ user	0m0.966s
 sys	0m1.884s
 ```
 
-Picture information:  
+Starry Night by Van Gogh:  
 
 ![Starry Night by Van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
-
-
-
-
 
 ```
 (base) ye@lst-gpu-3090:~/exp/demo/color_statistics$ time python ./color_statistics_analysis.py ./pic/606px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
