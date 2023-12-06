@@ -58,7 +58,7 @@ sys	0m1.884s
 
 Picture information:  
 
-![Starry Night by Van Gogh](https://en.wikipedia.org/wiki/The_Starry_Night#/media/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?dl=0)
+![Starry Night by Van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 
 
