@@ -83,4 +83,8 @@ user	0m0.885s
 sys	0m1.909s
 ```
 
+## Reference
+
+[1] [Paper link: Regularity of colour statistics in explaining colour composition preferences in art paintings](https://www.nature.com/articles/s41598-022-18847-9)  
+[2] [CIELAB color space](https://en.wikipedia.org/wiki/CIELAB_color_space)  
 
