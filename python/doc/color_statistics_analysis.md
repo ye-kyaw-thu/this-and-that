@@ -30,6 +30,8 @@ optional arguments:
 
 ## Some running results
 
+Impression Sunrise by Claude Monet:  
+![Impression Sunrise](https://www.claude-monet.com/images/paintings/impression-sunrise.jpg)  
 ```
 (base) ye@lst-gpu-3090:~/exp/demo/color_statistics$ time python ./color_statistics_analysis.py ./pic/impression-sunrise_by_ClaudeMonet.jpg 
 Color Statistics for ./pic/impression-sunrise_by_ClaudeMonet.jpg:
@@ -44,7 +46,7 @@ sys	0m1.940s
 ```
 
 The Fighting Temeraire by Joseph Mallord William Turner:  
-![The Fighting Temeraire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/1024px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)
+![The Fighting Temeraire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/1024px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)  
 
 ```
 (base) ye@lst-gpu-3090:~/exp/demo/color_statistics$ time python color_statistics_analysis.py ./pic/969px-The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg
