@@ -9,6 +9,12 @@ input ဝင်လာတဲ့ ပန်းချီကားကို "matching
 
 - အရင်ဆုံး RGB ကနေ CIELAB color space ကို ပြောင်းရတယ်
 - ပြီးမှ CIELAB color component တွေ ဖြစ်တဲ့ a* နဲ့ b* တို့ရဲ့  mean, standard deviation, skewness နဲ့ correlation တွေကို တွက်ယူတယ်
+
+## What is a* and b*
+
+"a*": This component represents the position on the green-to-red axis. A positive "a*" value indicates a color with a red hue, while a negative "a*" value indicates a green hue. The zero point on the "a*" axis represents neutral gray.
+
+"b*": This component represents the position on the blue-to-yellow axis. A positive "b*" value indicates a color with a yellow hue, while a negative "b*" value indicates a blue hue. The zero point on the "b*" axis represents neutral gray.
   
 ## --help
 
