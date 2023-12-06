@@ -5,7 +5,11 @@ I referred following paper:
 Nakauchi S, Tamura H. Regularity of colour statistics in explaining colour composition preferences in art paintings.   
 Sci Rep. 2022 Aug 26;12(1):14585. doi: 10.1038/s41598-022-18847-9. PMID: 36028748; PMCID: PMC9418166.  
 
+input ဝင်လာတဲ့ ပန်းချီကားကို "matching-to-nature" ဆိုတဲ့ hypothesis အောက်မှာ စစ်ဆေးဖို့အတွက် python code ကို ရေးကြည့်ခဲ့တယ်။ အဲဒီအတွက်က ပုံရဲ့ color statistics ကို ထုတ်ကြည့်ဖို့လိုအပ်တယ်။   
 
+- အရင်ဆုံး RGB ကနေ CIELAB color space ကို ပြောင်းရတယ်
+- ပြီးမှ mean, standard deviation, skewness နဲ့ CIELAB color component တွေ ဖြစ်တဲ့ a* နဲ့ b* တို့ရဲ့ correlation ကို တွက်တယ်
+  
 ## --help
 
 ```
