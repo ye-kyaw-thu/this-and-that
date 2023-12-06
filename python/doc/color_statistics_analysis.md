@@ -56,6 +56,11 @@ user	0m0.966s
 sys	0m1.884s
 ```
 
+Picture information:  
+![](https://en.wikipedia.org/wiki/The_Starry_Night#/media/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+
+
+
 ```
 (base) ye@lst-gpu-3090:~/exp/demo/color_statistics$ time python ./color_statistics_analysis.py ./pic/606px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
 Color Statistics for ./pic/606px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg:
