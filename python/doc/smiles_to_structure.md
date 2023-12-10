@@ -37,20 +37,13 @@ Output png file:
 ![N1CC2CCCCC2CC1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/N1CC2CCCCC2CC1.png)  
 
 ```
-
+python ./smiles_to_structure.py C1=CC=C1
+```
+Output png file: 
+![C1=CC=C1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1%3DCC%3DC1.png)
 ```
 
-```
 
-```
-
-```
-
-```
-
-```
-
-```
 
 ## References
 
