@@ -26,6 +26,6 @@
 18. The formula for the sum of an arithmetic progression [gauss_vs_sequential.py](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/gauss_vs_sequential.py), [[explanation]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/gauss_vs_sequential.md)
 19. The color game, [[color_game.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/color_game.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/color_game.md)
 20. Analysis of colour statistics of art paintings and natural scenes to test the ‘matching-to-nature’ hypothesis on colour preference, [[color_statistics_analysis.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/color_statistics_analysis.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/color_statistics_analysis.md)  
-21. SMILES to molecule structure picture generation, [[smiles_to_structure.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/smiles_to_structure.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/smiles_to_structure.md)  
+21. SMILES to molecule structure generation, [[smiles_to_structure.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/smiles_to_structure.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/smiles_to_structure.md)  
 22. a new algorithom ?!   
 
