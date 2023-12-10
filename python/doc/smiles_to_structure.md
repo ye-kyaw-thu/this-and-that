@@ -33,7 +33,8 @@ Successfully installed rdkit-2023.3.2
 python ./smiles_to_structure.py N1CC2CCCCC2CC1
 ```
 
-![N1CC2CCCCC2CC1]()  
+Output png file:  
+![N1CC2CCCCC2CC1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/N1CC2CCCCC2CC1.png)  
 
 ```
 
