@@ -29,6 +29,9 @@ Successfully installed rdkit-2023.3.2
 
 ## Example Runnings
 
+### for N1CC2CCCCC2CC1
+
+Command:  
 ```
 python ./smiles_to_structure.py N1CC2CCCCC2CC1
 ```
@@ -36,36 +39,58 @@ python ./smiles_to_structure.py N1CC2CCCCC2CC1
 Output png file:  
 ![N1CC2CCCCC2CC1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/N1CC2CCCCC2CC1.png)  
 
+### for C1=CC=C1
+
+Command:  
 ```
 python ./smiles_to_structure.py C1=CC=C1
 ```
+
 Output png file:  
 ![C1=CC=C1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1%3DCC%3DC1.png)  
 
+### for C1=CC=CC=C1
+
+Command:  
 ```
 python ./smiles_to_structure.py C1=CC=CC=C1
 ```
+
 Output png file:  
 ![C1=CC=CC=C1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1%3DCC%3DCC%3DC1.png)
 
+### for C1OC=CC=1
+
+Command:  
 ```
 python ./smiles_to_structure.py C1OC=CC=1
 ```
+
 Output png file:  
 ![C1OC=CC=1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1OC%3DCC%3D1.png)
+
+### for F/C=C/F
 
 ```
 python ./smiles_to_structure.py "F/C=C/F"
 ```
+
 Output png file:  
 ![F/C=C/F](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/FslashC%3DCslashF.png)
 
+### for [NH4+].[NH4+].[O-]S(=O)(=O)[S-]
+
+Command:  
 ```
-python ./smiles_to_structure.py 
+python ./smiles_to_structure.py [NH4+].[NH4+].[O-]S(=O)(=O)[S-]
 ```
+
 Output png file:  
 ![[NH4+].[NH4+].[O-]S(=O)(=O)[S-]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/%5BNH4%2B%5D.%5BNH4%2B%5D.%5BO-%5DS(%3DO)(%3DO)%5BS-%5D.png)
 
+### for c1ccccc1-c2ccccc2
+
+Command:  
 ```
 python ./smiles_to_structure.py c1ccccc1-c2ccccc2
 ```
