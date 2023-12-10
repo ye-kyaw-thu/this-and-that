@@ -43,6 +43,37 @@ Output png file:
 ![C1=CC=C1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1%3DCC%3DC1.png)
 ```
 
+```
+python ./smiles_to_structure.py C1=CC=CC=C1
+```
+Output png file: 
+![C1=CC=CC=C1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1%3DCC%3DCC%3DC1.png)
+
+```
+python ./smiles_to_structure.py C1OC=CC=1
+```
+Output png file: 
+![C1OC=CC=1](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/C1OC%3DCC%3D1.png)
+
+```
+python ./smiles_to_structure.py "F/C=C/F"
+```
+Output png file: 
+![F/C=C/F](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/FslashC%3DCslashF.png)
+
+```
+python ./smiles_to_structure.py 
+```
+Output png file: 
+![[NH4+].[NH4+].[O-]S(=O)(=O)[S-]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/%5BNH4%2B%5D.%5BNH4%2B%5D.%5BO-%5DS(%3DO)(%3DO)%5BS-%5D.png)
+
+```
+python ./smiles_to_structure.py c1ccccc1-c2ccccc2
+```
+Output png file: 
+![c1ccccc1-c2ccccc2](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/smiles/c1ccccc1-c2ccccc2.png)
+
+
 
 
 ## References
