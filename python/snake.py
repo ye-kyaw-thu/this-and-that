@@ -2,6 +2,17 @@
 ## Old snake game
 ## Date: 14 Dec 2023
 
+## Links of pictures
+## for the github, check under fig/snake_game/
+## Background:
+## https://unsplash.com/
+## Snake head:
+## https://www.flaticon.com/search?word=snake%20head
+## For foods:
+## https://pixabay.com/
+
+eat and game-over sound files (Game Over Arcade):
+https://freesound.org/
 import pygame
 import time
 import random
