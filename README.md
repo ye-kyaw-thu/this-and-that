@@ -29,6 +29,6 @@
 21. SMILES to molecule structure generation, [[smiles_to_structure.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/smiles_to_structure.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/smiles_to_structure.md)
 22. Snake game, [[snake.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/snake.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/snake.md)
 23. A cute math heart for my <3, [[fat_vheart.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fat_vheart.py)  
-24. Try to forecast next eclipse date, [[eclipse_forecaster.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/eclipse_forecaster.py)  
+24. Try to forecast next eclipse date, [[eclipse_forecaster.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/eclipse_forecaster.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/eclipse_forecaster.md)  
 25. a new algorithom ?!   
 
