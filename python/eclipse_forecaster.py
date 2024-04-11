@@ -1,5 +1,5 @@
 """
-Try to forecast eclipse dates.
+Try to forecast next eclipse date.
 Written by Ye Kyaw Thu, LST Lab., Myanmar
 Last updated: 11 April 2024
 
