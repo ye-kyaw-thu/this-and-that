@@ -31,7 +31,7 @@ Next solar eclipse visible from Bagan, Myanmar: 2053-09-12 10:06:19.684058
 
 သတိထားစေချင်တာက ဒီ တွက်ထားတဲ့ ပရိုဂရမ်က ကျွန်တော်စိတ်ဝင်စားလို့ Python library သုံးခုကို သုံးပြီးစမ်းထားတာပါ။ အချိန်တို့ ရက်တို့က အမှန်တကယ် eclipse ဖြစ်တာနဲ့လွဲသွားနိုင်တာတွေ ရှိနိုင်ပါတယ်။ တကယ်ကတော့ eclipse ရက်ကို တွက်တဲ့ နည်းလမ်းတွေက တစ်မျိုးထက်မကရှိပါတယ်။ ပြီးတော့ sea level ကို ထည့်တာနဲ့ မထည့်တာနဲ့မှာ ရလဒ်က ကွဲသွားနိုင်တယ်။ ဥပမာ ဒီအောက်က ရလဒ်တွေက sea level ကို ထည့်မစဉ်းစားပဲ ရေးထားတဲ့ code ကို run ကြည့်တုန်းက ရတဲ့ ရလဒ်တွေပါ။ ဗဟုသုတရအောင်လို့ ယှဉ်ကြည့်နိုင်အောင်လို့ ...  
 
-### Without Sea level Information
+### Results without Sea level Information
 
 ```
 (base) yekyaw.thu@gpu:~/tmp$ python ./eclipse_forecaster.py "Phnom Penh" Cambodia
