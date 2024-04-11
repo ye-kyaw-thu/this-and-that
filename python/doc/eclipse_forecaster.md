@@ -158,28 +158,45 @@ Next solar eclipse visible from Bagan, Myanmar: 2059-11-05 09:58:24.353944
 
 ## Results with the Updated Version
 
+shell script preparation ...  
+
+```bash
+#!/bin/bash
+
+set -x;
+python ./eclipse_forecaster2.py Mandalay Myanmar
+python ./eclipse_forecaster2.py Bagan Myanmar
+python ./eclipse_forecaster2.py Kyoto Japan
+python ./eclipse_forecaster2.py "Phnom Penh" Cambodia
+python ./eclipse_forecaster2.py "New York" American
+set +x;
 ```
 
-```
+Running results ...  
 
 ```
-
+(base) yekyaw.thu@gpu:~/tmp$ ./run-eclipse_forecaster2.sh
++ python ./eclipse_forecaster2.py Mandalay Myanmar
+Next solar eclipse visible from Mandalay, Myanmar: 2059-11-05 11:08:58.903177
+Next lunar eclipse visible from Mandalay, Myanmar: 2059-11-19 11:08:58.903177
++ python ./eclipse_forecaster2.py Bagan Myanmar
+Next solar eclipse visible from Bagan, Myanmar: 2059-11-05 11:09:00.458928
+Next lunar eclipse visible from Bagan, Myanmar: 2059-11-19 11:09:00.458928
++ python ./eclipse_forecaster2.py Kyoto Japan
+Next solar eclipse visible from Kyoto, Japan: 2034-03-20 11:09:02.087025
+Next lunar eclipse visible from Kyoto, Japan: 2044-09-07 11:09:02.087025
++ python ./eclipse_forecaster2.py 'Phnom Penh' Cambodia
+Next solar eclipse visible from Phnom Penh, Cambodia: 2059-11-05 11:09:03.349331
+Next lunar eclipse visible from Phnom Penh, Cambodia: 2059-11-19 11:09:03.349331
++ python ./eclipse_forecaster2.py 'New York' American
+Next solar eclipse visible from New York, American: 2048-06-11 11:09:04.870118
+Next lunar eclipse visible from New York, American: 2054-08-18 11:09:04.870118
++ set +x
 ```
 
-```
+## To Do
 
-```
+တွက်ပြီးထွက်လာတဲ့ ရက်တွေကို အောက်ပါ site တွေနဲ့ confirmation လုပ်ကြည့်ရန် ...  
 
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-
+- [https://eclipse.gsfc.nasa.gov/eclipse.html](https://eclipse.gsfc.nasa.gov/eclipse.html)  
+- [https://www.timeanddate.com/eclipse/list.html](https://www.timeanddate.com/eclipse/list.html)    
