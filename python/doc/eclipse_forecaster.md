@@ -151,6 +151,8 @@ Next solar eclipse visible from Bagan, Myanmar: 2059-11-05 09:58:24.353944
 
 ## Updated Version  
 
+ဒီဗားရှင်းမှာတော့ eclipse of the moon or sun ဆိုတဲ့ အချက်အလက်တွေပါအောင် ကြိုးစားကြည့်ထားတာပါ။  
+
 ```python
 """
 Try to forecast next eclipse date.
