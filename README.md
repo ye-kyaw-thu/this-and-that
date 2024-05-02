@@ -30,6 +30,6 @@
 22. Snake game, [[snake.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/snake.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/snake.md)
 23. A cute math heart for my <3, [[fat_vheart.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fat_vheart.py)  
 24. Try to forecast next eclipse date, [[eclipse_forecaster2.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/eclipse_forecaster2.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/eclipse_forecaster.md)
-25. Playing with Armstrong numbers, [[armstrong-or-not.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/armstrong-or-not.py), [[How to run]]()  
+25. Playing with Armstrong numbers, [[armstrong-or-not.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/armstrong-or-not.py)    
 26. a new algorithom ?!   
 
