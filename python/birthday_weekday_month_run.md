@@ -80,3 +80,44 @@ Simulated Probability (Same Month, 10 people): 0.995700
 Simulated Probability (Same Birthday, 10 people): 0.117600
 (base) ye@lst-gpu-server-197:~/ye/exp/this-and-that$
 ```
+
+## Some More Running  
+
+လူ ၂၃ ယောက် ရှိကြရင် မွေးနေ့ တူနိုင်တာက 50.73% ရှိတယ်။  
+
+```
+(base) ye@lst-gpu-server-197:~/ye/exp/this-and-that$ python ./birthday_weekday_month_prob.py 23
+Probability of at least two people sharing the same day of the week among 23 people: 1.000000
+That is approximately 100.00% chance.
+Probability of at least two people sharing the same month of birth among 23 people: 1.000000
+That is approximately 100.00% chance.
+Probability of at least two people sharing the same birthday among 23 people: 0.507297
+That is approximately 50.73% chance.
+```
+
+လူ ၃၅ယောက် မှာ မွေးနေ့တူနိုင်တာက 81.44% ရှိတယ်။  
+
+```
+(base) ye@lst-gpu-server-197:~/ye/exp/this-and-that$ python ./birthday_weekday_month_prob.py 35
+Probability of at least two people sharing the same day of the week among 35 people: 1.000000
+That is approximately 100.00% chance.
+Probability of at least two people sharing the same month of birth among 35 people: 1.000000
+That is approximately 100.00% chance.
+Probability of at least two people sharing the same birthday among 35 people: 0.814383
+That is approximately 81.44% chance.
+```
+
+လူ ၈၀ မှာ မွေးနေ့တူနိုင်တာက 99.99% ရှိတယ် ဆိုတဲ့ အဖြေရတယ်။  
+
+```
+(base) ye@lst-gpu-server-197:~/ye/exp/this-and-that$ python ./birthday_weekday_month_prob.py 80
+Probability of at least two people sharing the same day of the week among 80 people: 1.000000
+That is approximately 100.00% chance.
+Probability of at least two people sharing the same month of birth among 80 people: 1.000000
+That is approximately 100.00% chance.
+Probability of at least two people sharing the same birthday among 80 people: 0.999914
+That is approximately 99.99% chance.
+(base) ye@lst-gpu-server-197:~/ye/exp/this-and-that$
+```
+
+
