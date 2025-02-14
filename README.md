@@ -34,5 +34,6 @@
 26. A code poem of a researcher, [[researcher_life.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/researcher_life.py), [[researcher_run.png]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/researcher_run.png)
 27. Same birthday, weekday, month calculation, [[birthday_weekday_month_prob.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/birthday_weekday_month_prob.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/birthday_weekday_month_run.md)  
 28. Monte Carlo simulation for shared date, [[shared_date_simulation.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/shared_date_simulation.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/birthday_weekday_month_run.md)  
-29. a new algorithom ?!   
+29. Heart animation, [[heart-ani.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/heart-ani.py)  
+30. a new algorithom ?!   
 
