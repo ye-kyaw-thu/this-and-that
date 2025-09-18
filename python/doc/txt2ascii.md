@@ -1911,6 +1911,6 @@ Terminal မှာကြည့်မှ သေချာ မြင်နိုင
 ခမာလို ကျေးဇူးတင်ပါတယ်။  
 
 <div style="text-align: center;">
-  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/AuKun_style21.png" width="1000" alt="dag_line_0004.png">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/AuKun_style21.png" width="600" alt="dag_line_0004.png">
 </div>
 
