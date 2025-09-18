@@ -35,6 +35,6 @@
 27. Same birthday, weekday, month calculation, [[birthday_weekday_month_prob.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/birthday_weekday_month_prob.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/birthday_weekday_month_run.md)  
 28. Monte Carlo simulation for shared date, [[shared_date_simulation.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/shared_date_simulation.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/birthday_weekday_month_run.md)  
 29. Heart animation, [[heart-ani.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/heart-ani.py), [[How to run]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/heart-ani.md)
-30. Text to ASCII Art, [[txt2ascii.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/txt2ascii.py), [[]]()
+30. Text to ASCII Art, [[txt2ascii.py]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/txt2ascii.py), [[txt2ascii.md]](https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/doc/txt2ascii.md)
 31. a new algorithom ?!   
 
