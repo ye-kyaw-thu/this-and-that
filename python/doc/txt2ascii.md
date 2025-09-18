@@ -1961,13 +1961,13 @@ Terminal မှာကြည့်မှ သေချာ မြင်နိုင
 Style 70 ကနေ 100 ထိက အင်္ဂလိပ်စာ လို alphabetic သုံးတဲ့ ဘာသာစကားတွေအတွက်ပါ။  
 
 <div style="text-align: center;">
-  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/LoveYou.png" width="1000" alt="dag_line_0004.png">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/LoveYou.png" width="600" alt="dag_line_0004.png">
 </div>
 
 "See you" ကို စမ်းထားတာ။  
 
 <div style="text-align: center;">
-  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/SeeYou.png" width="1000" alt="dag_line_0004.png">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/SeeYou.png" width="600" alt="dag_line_0004.png">
 </div>
 
 
