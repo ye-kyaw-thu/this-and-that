@@ -1908,9 +1908,20 @@ Input file ပေးပြီးလည်း run လို့ ရတယ်။ --
 
 Terminal မှာကြည့်မှ သေချာ မြင်နိုင်တာမို့ ပုံအနေနဲ့ ASCII art တချို့ကို ဥပမာအနေနဲ့ ပြပါမယ်။  
 
-ခမာလို ကျေးဇူးတင်ပါတယ်။  
+ခမာလို ကျေးဇူးတင်ပါတယ်။ "ឣរគុណ" ကို စမ်းကြည့်ထားတာပါ။   
 
 <div style="text-align: center;">
   <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/AuKun_style21.png" width="600" alt="dag_line_0004.png">
 </div>
 
+ဟိန္ဒီလို လေးစားပါတယ်။ "नमस्ते" ကို စမ်းကြည့်ထားတာပါ။   
+
+<div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/Namaste_style36.png" width="600" alt="dag_line_0004.png">
+</div>
+
+လာအိုဘာသာစကားနဲ့ ဟဲလို၊ နေကောင်းလား စသည်ဖြင့် နှုတ်ဆက်တဲ့ ສະບາຍດີ (Sabaidee) ကို စမ်းကြည့်ထားတာပါ။  
+
+<div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/Sabaidee_style30.png" width="600" alt="dag_line_0004.png">
+</div>
