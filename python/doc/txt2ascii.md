@@ -1925,3 +1925,10 @@ Terminal မှာကြည့်မှ သေချာ မြင်နိုင
 <div style="text-align: center;">
   <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/Sabaidee_style30.png" width="600" alt="dag_line_0004.png">
 </div>
+
+
+ဘိန်းမုန့်ကို ASCII Art, style 34 နဲ့ စမ်းထားတာပါ။  
+
+<div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/BainMont_style34.png" width="600" alt="dag_line_0004.png">
+</div>
