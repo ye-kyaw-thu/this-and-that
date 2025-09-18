@@ -1932,3 +1932,42 @@ Terminal မှာကြည့်မှ သေချာ မြင်နိုင
 <div style="text-align: center;">
   <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/BainMont_style34.png" width="600" alt="dag_line_0004.png">
 </div>
+
+သုံးထားတဲ့ ဖောင့်တွေက အားလုံး free font တွေပါပဲ။  
+
+```
+(base) C:\Users\801680\Downloads\txt2Ascii>dir noto_fonts
+ Volume in drive C has no label.
+ Volume Serial Number is 9C54-A208
+
+ Directory of C:\Users\801680\Downloads\txt2Ascii\noto_fonts
+
+09/04/2025  08:44 AM    <DIR>          .
+09/04/2025  08:44 AM    <DIR>          ..
+09/04/2025  08:06 AM           221,084 NotoSansDevanagari-Regular.ttf
+09/04/2025  08:36 AM         5,450,308 NotoSansJP-Regular.ttf
+09/04/2025  07:58 AM           105,696 NotoSansKhmer-Regular.ttf
+09/04/2025  08:24 AM            53,076 NotoSansLao-Regular.ttf
+09/04/2025  08:43 AM           405,892 NotoSansMono-Regular.ttf
+08/29/2025  05:00 PM           196,004 NotoSansMyanmar-Regular.ttf
+09/04/2025  08:00 AM            47,484 NotoSansThai-Regular.ttf
+08/29/2025  05:00 PM           259,512 NotoSerifMyanmar-Regular.ttf
+               8 File(s)      6,739,056 bytes
+               2 Dir(s)   5,848,125,440 bytes free
+
+(base) C:\Users\801680\Downloads\txt2Ascii>
+```
+
+Style 70 ကနေ 100 ထိက အင်္ဂလိပ်စာ လို alphabetic သုံးတဲ့ ဘာသာစကားတွေအတွက်ပါ။  
+
+<div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/LoveYou.png" width="1000" alt="dag_line_0004.png">
+</div>
+
+"See you" ကို စမ်းထားတာ။  
+
+<div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/SeeYou.png" width="1000" alt="dag_line_0004.png">
+</div>
+
+
