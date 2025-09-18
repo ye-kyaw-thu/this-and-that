@@ -1880,7 +1880,7 @@ Input file ပေးပြီးလည်း run လို့ ရတယ်။ --
 (base) C:\Users\801680\Downloads\txt2Ascii>
 ```
 
-ထိုင်းစာတို့ လာအိုစာတို့ ကမာစာတို့အတွက် ASCII Art ထုတ်ချင်တယ် ဆိုရင်တော့ လိုအပ်တဲ့ ဖောင့်ကို ပြောင်းပေးပါ။  
+ထိုင်းစာတို့ လာအိုစာတို့ ခမာစာတို့အတွက် ASCII Art ထုတ်ချင်တယ် ဆိုရင်တော့ လိုအပ်တဲ့ ဖောင့်ကို ပြောင်းပေးပါ။  
 
 ```
 (base) C:\Users\801680\Downloads\txt2Ascii>python txt2ascii.py --text "สบายๆ" --font ./noto_fonts/NotoSansThai-Regular.ttf --style 30
@@ -1903,4 +1903,14 @@ Input file ပေးပြီးလည်း run လို့ ရတယ်။ --
 
 (base) C:\Users\801680\Downloads\txt2Ascii>
 ```
+
+## Screenshots
+
+Terminal မှာကြည့်မှ သေချာ မြင်နိုင်တာမို့ ပုံအနေနဲ့ ASCII art တချို့ကို ဥပမာအနေနဲ့ ပြပါမယ်။  
+
+ခမာလို ကျေးဇူးတင်ပါတယ်။  
+
+<div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/this-and-that/blob/main/python/fig/AuKun_style21.png" width="1000" alt="dag_line_0004.png">
+</div>
 
